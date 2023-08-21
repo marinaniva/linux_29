@@ -1,0 +1,26 @@
+   0 whoami
+   1 pwd
+   2 mkdir -p  animals/dogs animals/cats animals/fish
+   3 cd animals
+   4 touch dogs/pluto cats/garfild fish/nemo
+   5 tree
+   6 ls /
+   7 touch /tmp/adam
+   8 ls /tmp
+   9 cd 
+  10 mkdir human
+  11 ls
+  12 cp /tmp/adam human
+  13 tree
+  14 touch /tmp/evA
+  15 ls /tmp
+  16 mv /tmp/evA /opt/eva
+  17 ls /opt
+  18 ls/tmp
+  19 ls /tmp
+  20 cd
+  21 mv /opt/eva human
+  22 ls human
+  23 tree
+  24 history > history_03.07.23
+  25 history > history_030723.txt
