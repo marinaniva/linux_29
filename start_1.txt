@@ -1,0 +1,6 @@
+Start
+08/21/23_22:54:46
+dr-xr-xr-x   12 root     root             0 Aug 21 22:52 sys
+drwxrwxrwt    2 root     root            37 Jan  9  2021 tmp
+drwxr-xr-x   10 root     root           229 Jun 24  2020 usr
+drwxr-xr-x   16 root     root           348 Aug 27  2020 var
